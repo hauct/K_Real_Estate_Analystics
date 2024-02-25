@@ -1,4 +1,4 @@
-# K real estate compauny - Bussiness Analystics Project
+# K real estate company - Bussiness Analystics Project
 
 ## Table of Contents
 - [Problem](#problem)
